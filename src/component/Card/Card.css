@@ -1,0 +1,30 @@
+.cardContainer {
+  background: #e1f1dd;
+
+  border-radius: 3px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+  box-shadow: 8px 8px 5px black;
+}
+
+h4 {
+  text-align: center;
+}
+
+.cardContainer img {
+  height: 150px;
+  border-radius: 10px;
+}
+
+.cardContainer button {
+  background-color: #00adb5;
+  padding: 5px;
+  outline: none;
+  height: 2rem;
+  border: none;
+  margin: 10px;
+  border-radius: 3px;
+}
